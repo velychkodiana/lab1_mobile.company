@@ -1,0 +1,5 @@
+Basic,Basic Plan,150.0,100,1,13000
+Pro,Pro Plan,200.0,200,25,7000
+Unlimited,Unlimited Plan,420.0,500,50,1200
+Smart,Smart Plan,275.0,200,15,21200
+Start,Start Plan,80.0,80,1,13200

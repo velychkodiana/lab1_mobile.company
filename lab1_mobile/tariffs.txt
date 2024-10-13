@@ -1,0 +1,4 @@
+BasicTariff,Basic,150,00,100,1,17500
+ProTariff,Pro,200,00,200,5,3550
+UnlimitedTariff,Unlimited,420,00,500,50,1200
+BasicTariff,1,1,00,1,1,1
